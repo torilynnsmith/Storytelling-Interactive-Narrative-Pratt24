@@ -14,7 +14,7 @@ The Kitchen is a room. The Kitchen is east of the Office. The description of the
 [[FRUIT, a kind of thing]]
 A fruit is a kind of thing. The banana is a fruit. The orange is a fruit. The apple is a fruit. [[apply code to multiple things at once. we'll do this later.]]
 
-The banana is a fruit in the Kitchen. 
+The banana is a fruit in the Kitchen. The description of the banana  is "An overripe banana. Would be good for banana bread." 
 
 The orange is a fruit in the Kitchen. 
 
