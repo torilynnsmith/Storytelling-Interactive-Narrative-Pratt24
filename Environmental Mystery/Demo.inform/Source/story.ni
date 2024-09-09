@@ -16,7 +16,7 @@ A fruit is a kind of thing. The banana is a fruit. The orange is a fruit. The ap
 
 The banana is a fruit in the Kitchen. The description of the banana  is "An overripe banana. Would be good for banana bread." 
 
-The orange is a fruit in the Kitchen. The description of the orange is "The orange is leathery, but smells delicious."
+The orange is a fruit in the Kitchen. The description of the orange is "The orange is leathery, but smells yummy."
 
 The apple is a fruit in the Kitchen. 
 
